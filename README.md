@@ -14,6 +14,4 @@ Skills: _**JAVA** / REACT / JS / HTML / CSS_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsKlork&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ItsKlork)  
-
 ![Profile views](https://gpvc.arturio.dev/ItsKlork)  
